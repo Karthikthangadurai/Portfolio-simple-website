@@ -18,7 +18,7 @@ HTML
 CSS
 
 🔗 Live Demo
-[link]
+[https://karthikthangadurai.github.io/Portfolio-simple-website/]
 
 📂 Features
 Simple two-page layout (Home and Contact)
