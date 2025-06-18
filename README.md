@@ -27,6 +27,6 @@ Clean and responsive design
 
 Easy-to-understand code
 
-thank you for visiting my portfolio website.
+Thank You for Visiting My Portfolio Website.
 
 
